@@ -1,3 +1,7 @@
+# Custom folders
+lb_plots/
+hessian_plots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
